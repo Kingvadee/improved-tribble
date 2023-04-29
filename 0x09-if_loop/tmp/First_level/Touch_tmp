@@ -1,2 +1,27 @@
-#include Universal Standard Library
-Code for improved-tribble
+#include "improved-tribble"
+#include <stdlib>
+:
+/**Greens 🍃 == what you need to paddle,back into the Blue.
+*@Blue: the tempest 🌊 
+*@Red:  the resilience ⁉🚫
+**@**s: pointer to the string of“Green”
+*/
+int _putchar(char c)
+{
+ Char s = **s (const, **s = “greens”…);
+
+Int main()
+{
+ if (blue =<  red)
+{
+_putchar(“%s  *s \n”,green);
+}
+If Else ( *s != red)
+{
+   _putchar( “%s **s, **s++ \n”,green);
+}
+Else (*s == blue)
+{
+Return (0);
+}
+}
