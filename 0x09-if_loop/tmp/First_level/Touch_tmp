@@ -1,5 +1,5 @@
-#include "improved-tribble"
-#include <stdlib>
+#include "improved-tribble.h"
+#include <stdlib.h>
 :
 /**Greens 🍃 == what you need to paddle,back into the Blue.
 *@Blue: the tempest 🌊 
