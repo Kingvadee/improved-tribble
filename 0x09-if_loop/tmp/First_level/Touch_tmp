@@ -1,27 +1,28 @@
 #include "improved-tribble.h"
 #include <stdlib.h>
-:
+
 /**Greens 🍃 == what you need to paddle,back into the Blue.
-*@Blue: the tempest 🌊 
-*@Red:  the resilience ⁉🚫
-**@**s: pointer to the string of“Green”
-*/
-int _putchar(char c)
+ *@Blue: the tempest 🌊 
+ *@Red:  the resilience ⁉🚫
+ *@ *s: pointer to the string of“Green”
+ */
+
+	int _putchar(char c)
 {
- Char s = **s (const, **s = “greens”…);
+		 Char s = *s (const, *s = “greens");
 
 Int main()
 {
- if (blue =<  red)
-{
-_putchar(“%s  *s \n”,green);
-}
-If Else ( *s != red)
-{
-   _putchar( “%s **s, **s++ \n”,green);
-}
-Else (*s == blue)
-{
-Return (0);
-}
+		if (blue =<  red)
+		{
+				_putchar(“%s  *s \n”,green);
+		}
+				If Else ( *s != red)
+			{
+					_putchar( “%s **s, **s++ \n”,green);
+			}
+				Else (*s == blue)
+				{
+		Return (0);
+				}
 }
